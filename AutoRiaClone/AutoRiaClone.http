@@ -1,0 +1,11 @@
+@AutoRiaClone_HostAddress = http://localhost:5193
+
+GET {{AutoRiaClone_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{AutoRiaClone_HostAddress}}/api/v1/test
+Accept: application/json
+
+###
